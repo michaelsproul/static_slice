@@ -1,0 +1,5 @@
+[package]
+
+name = "static_slice"
+version = "0.0.1"
+authors = ["Michael Sproul <micsproul@gmail.com>"]
