@@ -3,3 +3,7 @@
 name = "static_slice"
 version = "0.0.1"
 authors = ["Michael Sproul <micsproul@gmail.com>"]
+
+description = "Macro for creating static slices of arbitrary types."
+documentation = "http://sproul.io/rust/static_slice"
+license = "WTFPL"
