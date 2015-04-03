@@ -1,7 +1,7 @@
 [package]
 
 name = "static_slice"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Michael Sproul <micsproul@gmail.com>"]
 
 description = "Macro for creating static slices of arbitrary types."

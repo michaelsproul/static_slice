@@ -27,6 +27,6 @@ mod test {
     fn multiple_slices() {
         let s1 = static_slice![u8: 1, 2, 3];
         let s2 = static_slice![u8: 1, 2, 3, 4];
-        assert_eq!(s1, s2.slice_to(3));
+        assert_eq!(s1, &s2[..3]);
     }
 }
