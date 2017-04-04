@@ -1,9 +1,10 @@
 [package]
 
 name = "static_slice"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Michael Sproul <micsproul@gmail.com>"]
 
 description = "Macro for creating static slices of arbitrary types."
-documentation = "http://sproul.io/rust/static_slice"
+documentation = "https://docs.rs/static_slice/"
+repository = "https://github.com/michaelsproul/static_slice"
 license = "WTFPL"
